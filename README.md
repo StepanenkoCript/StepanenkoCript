@@ -10,16 +10,19 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StepanenkoCript&show_icons=true&theme=merko&include_all_commits=true&hide=prs,issues,contribs&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StepanenkoCript&layout=compact&langs_count=7&theme=merko"/>
 </div>  
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ 
+  <div>
+    
+ ### Languages and Tools:      
+     
+  <img align="center" alt="Bruno-Js" height="60" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Bruno-React" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-HTML" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-BOOT" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Bruno-SASS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
   <img align="right" alt="bruno-gif" height="150" style="border-radius:50px;" src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif">
-</div>
+  </div>
   
   ##
   
