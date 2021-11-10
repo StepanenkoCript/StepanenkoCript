@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/StepanenkoCript">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StepanenkoCript&show_icons=true&theme=merko&include_all_commits=true&hide=prs,issues,contribs&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StepanenkoCript&show_icons=true&theme=merko&include_all_commits=true&hide=issues,contribs&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StepanenkoCript&layout=compact&langs_count=7&theme=merko"/>
 </div>  
  
