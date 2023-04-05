@@ -1,8 +1,7 @@
 ## ⚡ Bruno Stepanenko ⚡  |   Programming is my passion, so i am constantly learning new methods and things every day. 🌱
 
 - 🔭 I’m currently working on a react website. Soon i will upload here! :D
-- 🌱 I’m currently learning React.js
-- 🤔 I’m looking for help to find my first job as programmer
+- 🌱 I’m currently learning React.js, Javascript and Next.js.
 - ⚡ Fun fact: I'm a self taught. I have a degree in another area, but my passion for programming spoke louder
 
 <div align="center">
