@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/kacho_ga/3-stats.svg)
 ```
 
     

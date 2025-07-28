@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/city_lights/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/city_lights/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/StepanenkoCript/StepanenkoCript/main/profile-summary-card-output/city_lights/3-stats.svg)
 ```
 
     
